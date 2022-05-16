@@ -1,2 +1,2 @@
-# select_stock_by_industry
+# Industry——Rotation
 the strategy of selecting stocks by industry
